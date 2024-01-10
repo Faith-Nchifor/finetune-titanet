@@ -1,0 +1,14 @@
+segments
+nemo_experiments
+.vscode
+data/train_all.txt
+*.nemo
+outputs
+__pychache__/*
+__pychache__
+data
+.idea/
+*.tar.gz
+*.zip
+data/LibriSpeech
+finetune_embedding_model.egg-info
