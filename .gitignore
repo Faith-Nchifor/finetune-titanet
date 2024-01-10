@@ -6,7 +6,7 @@ data/train_all.txt
 outputs
 __pychache__/*
 __pychache__
-data
+data/*
 .idea/
 *.tar.gz
 *.zip
